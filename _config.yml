@@ -1,5 +1,5 @@
-title: ES UN TITULO WANDERFULL
-date: 2019/01/18
+title: Tutorial Github pages
+date: 2019/02/15
 author: GitHub User
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -13,4 +13,4 @@ github_username:  your-github-handle
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-merlot
+theme: minima
