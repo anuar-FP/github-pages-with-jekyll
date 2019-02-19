@@ -1,6 +1,6 @@
 title: Tutorial Github pages
 date: 2019/02/15
-author: GitHub User
+author: anouar
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -12,5 +12,6 @@ twitter_username: your-twitter-handle
 github_username:  your-github-handle
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+
 
 theme: minima
